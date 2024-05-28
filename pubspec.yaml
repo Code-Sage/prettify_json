@@ -1,5 +1,5 @@
 name: prettify_json
-description: "A new Flutter package project."
+description: "Prettify JSON string with custom indentation size."
 version: 0.0.1
 homepage: https://github.com/Code-Sage/prettify_json
 
